@@ -19,7 +19,8 @@ Este projeto é um Gerador de Senhas, desenvolvido com React Native e Expo. Foi 
 As seguintes ferramentas foram usadas na construção dessa parte do projeto:
 
 React Native + Expo.<br>
-Bibliotecas
+
+Bibliotecas:
 -   **Async-storage (Salvar local)**
 -   **Slider (Componente de SliderBar)** 
 -   **React-navigation/native (Roteamento das telas)**
@@ -43,6 +44,7 @@ Expo Go (aplicativo para testar o projeto (Play Store / Apple Store)).<br>
 ### Rodando a Aplicacao
 
 Apos instalado o NodeJs e glonado esse repositorio.<br>
+
 0. Abrir essa pasta geradorSenha em seu editor de codigo.<br>
 1. Iniciar um novo terminal.<br>
 2. No terminal, executar **npm install**.<br>
