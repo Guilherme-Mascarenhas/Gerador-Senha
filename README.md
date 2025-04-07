@@ -18,7 +18,7 @@ Este projeto é um Gerador de Senhas, desenvolvido com React Native e Expo. Foi 
 
 As seguintes ferramentas foram usadas na construção dessa parte do projeto:
 
-React Native + Expo
+React Native + Expo.<br>
 Bibliotecas
 -   **Async-storage (Salvar local)**
 -   **Slider (Componente de SliderBar)** 
@@ -35,20 +35,20 @@ Bibliotecas
 
 Antes de começar, voce vai precisar ter instalado em sua maquina as seguintes ferramentas:
 
-Nodejs
-Editor de codigo (VsCode)
-Git
-Expo Go (aplicativo para testar o projeto (Play Store / Apple Store))
+Nodejs.<br>
+Editor de codigo (VsCode).<br>
+Git.<br>
+Expo Go (aplicativo para testar o projeto (Play Store / Apple Store)).<br>
 
 ### Rodando a Aplicacao
 
-Apos instalado o NodeJs e glonado esse repositorio.
-0. Abrir essa pasta geradorSenha em seu editor de codigo.
-1. Iniciar um novo terminal.
-2. No terminal, executar **npm install**
-3. Apos instalar as Dependencias, execute **npm start** para iniciar o projeto
-4. Caso tenha o emulador de Android, seguir a instrução do seu emulador.
-5. Caso preferir, pode baixar na Play Store/Apple Store o aplicativo Expo Go
+Apos instalado o NodeJs e glonado esse repositorio.<br>
+0. Abrir essa pasta geradorSenha em seu editor de codigo.<br>
+1. Iniciar um novo terminal.<br>
+2. No terminal, executar **npm install**.<br>
+3. Apos instalar as Dependencias, execute **npm start** para iniciar o projeto.<br>
+4. Caso tenha o emulador de Android, seguir a instrução do seu emulador.<br>
+5. Caso preferir, pode baixar na Play Store/Apple Store o aplicativo Expo Go.<br>
 6. Dentro da camera do seu celular escanear o QRCode gerado para acessar a previa da aplicação (OBS: Nessa opção o celular precisa estar na mesma rede que o computador que esta rodando.)
 
 
